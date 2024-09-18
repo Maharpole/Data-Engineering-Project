@@ -1,4 +1,7 @@
 ### **Project: E-Commerce Retail Analytics System (OCI Edition)**
+### **Architecture Diagram**
+
+![Image](https://github.com/user-attachments/assets/c4171f62-418c-4cbd-93bf-3fc93edc2295)
 
 #### 1. **Database Design**
    - **Technology**: Oracle Autonomous Database (or Oracle MySQL).
