@@ -8,6 +8,9 @@
    - **Key Features**:
      - Store historical sales transactions and customer details.
      - Use Oracle’s built-in features such as automatic backups and tuning.
+### **Database Ideation:**
+<img width="665" alt="Data engineering ideation" src="https://github.com/user-attachments/assets/9c7f7415-9e7d-4d77-a32e-aaf43260e0f0">
+
 
 #### 2. **Data Storage**
    - **Technology**: **OCI Object Storage** and **OCI Data Lakehouse**.
